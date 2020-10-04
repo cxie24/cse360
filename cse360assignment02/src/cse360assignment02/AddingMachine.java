@@ -1,8 +1,9 @@
 /**  
 * AddingMachine.java - A simple adding machine with no implementation yet
 * @author Chenghao Xie
-* @version 1.0 
+* @version 2.0 
 * @see CSE360
+* * HTTPS:https://github.com/cxie24/cse360.git
 */ 
 package cse360assignment02;
 
